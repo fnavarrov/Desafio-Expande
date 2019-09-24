@@ -1,2 +1,2 @@
 # Desafio-Expande
-### En este repositorio se encuentran los archivos necesarios para la fase preliminar del desafío expande
+### En este repositorio se encuentran los archivos propuestos por AMTC para la fase preliminar del desafío expande
